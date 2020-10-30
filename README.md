@@ -1,2 +1,2 @@
-# seisel
-Site
+# ЗАО "СейсЭл"
+Копия сайта seisel.com
